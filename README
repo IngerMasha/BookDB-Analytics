@@ -9,10 +9,6 @@ This project analyzes a dataset of the best books of all time, sourced from Good
 - Examine the demographic composition of authors.
 - Provide data-driven insights to support decision-making in the book industry.
 
-## Dashboard Preview
-
-![Dashboard Screenshot](images/coverImg.png)
-
 ## **Tools and Technologies**
 - **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - **Visualization**: Tableau for interactive dashboards
