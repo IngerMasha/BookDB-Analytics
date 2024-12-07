@@ -11,7 +11,7 @@ This project analyzes a dataset of the best books of all time, sourced from Good
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard1.png)
+![Dashboard Screenshot](https://github.com/IngerMasha/BookDB-Analytics/blob/main/images/dashboard1.png)
 
 ## **Tools and Technologies**
 - **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
